@@ -1,2 +1,2 @@
-# notes-client
+# notes_client
 
